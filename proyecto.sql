@@ -4,9 +4,9 @@ create Database servicios;
 Insert into('nombre_servicio','descripcion','delegacion','horario') Values ('gas','Servicio de gas estacionario','Coyoacan','lunes,miercoles,viernes');
 Insert into('nombre_servicio','descripcion','delegacion','horario') Values ('agua','servicio de agua','Cuauhtemoc','lunes,miercoles,viernes');
 Insert into('nombre_servicio','descripcion','delegacion','horario') Values ('tamales','venta de tamales','iztapalapa','lunez,miercoles,viernes');
-Insert into('nombre_servicio,'descripcion','delegacion','horario') Values ( 'helados','venta de paletas y helados','benito juarez','2008','coyoacan','19.315065','-99.185426')
+Insert into('nombre_servicio','descripcion','delegacion','horario') Values ( 'helados','venta de paletas y helados','benito juarez','sabados,domingos')
 Insert into('nombre_servicio','descripcion','delegacion','horario') Values ('tacos de canasta','venta de tacos','Cuauhtemoc','martes,jueves');
-Insert into('nombre_servicio','descripcion','delegacion','horario') Values ('camotes','venta de camotes','iztacalco','miercoles,viernes);
+Insert into('nombre_servicio','descripcion','delegacion','horario') Values ('camotes','venta de camotes','iztacalco','miercoles,viernes');
 Insert into('nombre_servicio','descripcion','delegacion','horario') Values ('pan','venta de pan de dulce','Cuauhtemoc','lunes,miercoles,viernes');
 Insert into('nombre_servicio','descripcion','delegacion','horario') Values ('elotes','venta de elotes y esquites','Benito Juarez','miercoles,viernes');
 
