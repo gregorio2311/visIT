@@ -20,3 +20,4 @@ horario varchar(50),
 
 
 
+insert into servicios values (3,'tamales','venta de tamales','iztapalapa','lunez,miercoles,viernes','http://images.vendobara.com/anuncios_detalle/881bf88ba73a312111f457f42b1924cf.jpg');
